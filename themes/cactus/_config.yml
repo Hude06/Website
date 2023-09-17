@@ -42,6 +42,10 @@ social_links:
   -
     icon: mail
     link: mailto:hude@hude.earth
+  -
+    icon: podcast
+    link: https://podcasters.spotify.com/pod/show/byte-sized1
+  
 
 
 # Customize the overview with displaying a tagcloud on the index page.
