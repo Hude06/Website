@@ -96,9 +96,10 @@ ignore:
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
+plugins:
+  - hexo-tag-video
 ## Themes: https://hexo.io/themes/
-theme: cactus
-
+theme: redefine
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
